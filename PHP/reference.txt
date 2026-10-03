@@ -1,0 +1,8 @@
+Author: Amr A. AlKhuffash
+Last Modified: October 1st, 2026
+
+artifact: bers.php
+function: Back-End Routing Script, routing a HTTP request based on its method.
+
+artifact: bersbrr.php
+function: Back-End Routing Script, routing a HTTP request based on a the value of the variable "rqstid".
